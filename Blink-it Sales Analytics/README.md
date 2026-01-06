@@ -1,6 +1,6 @@
 # Blink-it Sales Analytics Dashboard
 
-📊 Overview
+# 📊 Overview
 This Blinkit Sales Dashboard provides a comprehensive visualization of sales performance and outlet metrics for India’s last-minute grocery delivery app, Blinkit. The dashboard offers key insights into sales trends, item performance, and outlet characteristics to support data-driven decision-making.
 
 # 🛠 Tools & Technologies
