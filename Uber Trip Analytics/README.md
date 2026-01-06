@@ -1,18 +1,18 @@
-#📊 Overview 
+# 📊 Overview 
 The Uber Trip Analysis Dashboard provides an in-depth analysis of ride bookings, trip value, distance, and time-based travel patterns. It enables stakeholders to understand customer travel behavior, peak demand periods, vehicle preferences, and location-based insights to improve operational efficiency and service planning.
 
-#🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 - Power BI
 - DAX 
 - Excel 
 
-#📁 Files
+# 📁 Files
 
 Location Table-2.xlsx , Uber Trip Details-2.xlsx - Data Used
 Uber Customer Trip Analysis Dashboard.pbxi - Power BI Report
 ss1.png , ss2.png - Dashboard Screenshot Images
 
-#🔍 Key Insights
+# 🔍 Key Insights
 - Booking Performance Metrics: Displays total bookings, total booking value, average booking value, total trip distance, average trip distance, and average trip time.
 - Time-Based Analysis: Hourly and daily booking trends highlight peak demand periods and rider behavior across weekdays and weekends.
 - Day vs Night Trips: Compares booking volume between day and night trips to identify usage patterns.
@@ -21,7 +21,7 @@ ss1.png , ss2.png - Dashboard Screenshot Images
 - Location Insights: Identifies most frequent pickup and drop-off locations, preferred vehicle types by area, and longest-distance trips.
 - Interactive Filters: Allows filtering by date range and city for customized exploration of trip data.
 
-#🔑 Key Features
+# 🔑 Key Features
 
 - High Booking Volume: The platform recorded 103.7K total bookings with a total booking value of $1.6M, indicating strong demand.
 - Consistent Pricing: The average booking value remains steady at $15, suggesting stable fare pricing across trips.
