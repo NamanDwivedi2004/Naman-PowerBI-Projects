@@ -3,7 +3,7 @@ The Uber Trip Analysis Dashboard provides an in-depth analysis of ride bookings,
 
 #🛠 Tools & Technologies
 - Power BI
-- DAX
+- DAX 
 - Excel 
 
 #📁 Files
