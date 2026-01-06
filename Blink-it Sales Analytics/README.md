@@ -22,3 +22,10 @@ This Blinkit Sales Dashboard provides a comprehensive visualization of sales per
 - Item Visibility vs Sales: Higher visibility does not always correlate with higher sales; strategic placement of products may improve performance.
 - Low Fat vs Regular Items: Regular items contribute more (776.32K) to total sales compared to low-fat items (425.36K), indicating customer preference trends.
 
+#🔑 Key Features
+- Total and Average Sales: Displays overall sales (1.2M) and average sales per transaction (141).
+- Item Analysis: Shows the number of items (9K) sold, categorized by type and fat content, with a breakdown of top-selling categories like fruits, snacks, and household items.
+- Outlet Insights: Includes outlet size, location distribution, and type-wise sales performance. Tier-wise and type-wise sales comparison helps identify high-performing segments.
+- Trends Over Time: Sales trend chart (2010–2022) highlights growth patterns and peak sales periods.
+- Ratings and Visibility: Average outlet ratings and item visibility metrics provide qualitative insights into customer satisfaction and product exposure.
+- Interactive Filters: Allows dynamic filtering by outlet location, outlet size, and item type for deeper analysis.
