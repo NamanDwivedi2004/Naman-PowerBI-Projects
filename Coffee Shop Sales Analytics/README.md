@@ -1,7 +1,6 @@
 # 📊 Overview
 This dashboard provides a comprehensive analysis of coffee shop sales performance by tracking revenue, orders, product demand, store-wise performance, and time-based trends. It enables stakeholders to monitor daily operations, identify peak sales periods, and make data-driven decisions to improve profitability and customer experience.
 
-🔍 Key Insights
 # 🛠 Tools & Technologies
 - Power BI
 - DAX
