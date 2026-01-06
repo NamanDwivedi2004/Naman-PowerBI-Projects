@@ -1,17 +1,17 @@
-#📊 Overview
+# 📊 Overview
 The Spotify Listening Behavior Dashboard provides an in-depth analysis of music consumption patterns across platforms, time, and content types. It helps understand user listening habits, track engagement, and preferences across albums, artists, and tracks using interactive and time-based analytics.
 
-#🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 - Power BI
 - DAX
 - Excel
 
-#📁 Files
+# 📁 Files
 - spotify_history.csv , spotify_history.xlsx - Data Used
 - Spotify Data Analytics Dashboard - Power BI Report
 - ss1.png , ss2.png  - Dashboard Screenshot Images
 
-#🔍 Key Insights
+# 🔍 Key Insights
 - Peak Listening Hours: Listening activity is highest during evening hours (6 PM – 11 PM), with consistent engagement across weekends.
 - User Engagement Pattern: Most tracks are consumed within short listening durations (under 5 minutes), with a smaller segment showing high repeat frequency.
 - Platform Usage: Mobile platforms (Android and iOS) dominate listening behavior, indicating on-the-go music consumption.
@@ -21,7 +21,7 @@ The Spotify Listening Behavior Dashboard provides an in-depth analysis of music 
 - Top Artists Dominance: The Beatles consistently rank as the most played artist, followed by The Killers and John Mayer.
 - Favorite Albums & Tracks: Classic albums and tracks dominate top rankings, showing strong user preference for timeless music.
 
-#🔑 Key Features
+# 🔑 Key Features
 - Booking Performance Metrics: Displays total bookings, total booking value, average booking value, total trip distance, average trip distance, and average trip time.
 - Time-Based Analysis: Hourly and daily booking trends highlight peak demand periods and rider behavior across weekdays and weekends.
 - Day vs Night Trips: Compares booking volume between day and night trips to identify usage patterns.
